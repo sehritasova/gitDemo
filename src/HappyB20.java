@@ -3,5 +3,9 @@ public class HappyB20 {
 
 
         System.out.println("B20 is always happy");
+
+        System.out.println("Today is Saturday");
+        System.out.println("This is a task");
+
     }
 }
